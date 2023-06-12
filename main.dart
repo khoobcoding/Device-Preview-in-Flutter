@@ -1,3 +1,10 @@
+dependencies:
+  cupertino_icons: ^1.0.2
+  device_frame: ^1.1.0 // Add this package 
+  device_preview: ^1.1.0   // Add this package 
+    
+// Make Sure your Internet Connection is On Otherwise Device Preview Will not show
+    
 import 'package:device_preview/device_preview.dart';
 import 'package:example/Screens.dart';
 import 'package:flutter/material.dart';
